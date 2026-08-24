@@ -11,17 +11,12 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <h2>Users Created</h2>
 <p>
 
-src="https://github.com/user-attachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
-</p>
-<p>
-Created a new user named Chris Walker.
+<img width="1919" height="1019" alt="Screenshot 2026-08-17 231106" src="https://github.com/user-attachments/assets/a1c93b87-33ad-4129-9a67-38555ffca717" />
+
 </p>
 <br />
 <p>
 
-src="https://github.com/user-attachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
-</p>
-<p>
-Created a new user named Jordan Lee.
+
 </p>
 <br />
