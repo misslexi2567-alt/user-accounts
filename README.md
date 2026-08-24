@@ -12,6 +12,9 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <p>
 
 <img width="1919" height="1019" alt="Screenshot 2026-08-17 231106" src="https://github.com/user-attachments/assets/a1c93b87-33ad-4129-9a67-38555ffca717" />
+Created new user Chris Wright also changed name from Lexurious Nails to LEX Bank Lab.
+
+<img width="1918" height="1079" alt="All Created Users" src="https://github.com/user-attachments/assets/2bcb1991-9671-4447-b1f6-ebb82244a6e8" />
 
 </p>
 <br />
